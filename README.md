@@ -8,4 +8,4 @@
 ---
 ![Brijesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=brijes-h&show_icons=true&theme=dracula)
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brijes-h&layout=compact)](https://github.com/brijes-h/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brijes-h&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
